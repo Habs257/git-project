@@ -1,3 +1,8 @@
-# git-project
-pour unexamun de coursera 
-je cree ce depos git visant a verifier mes conaissance de github
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+Copied!
